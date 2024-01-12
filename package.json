@@ -1,0 +1,12 @@
+{
+  "name": "shiro-ui",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "terser": "^5.25.0",
+    "tsup": "^8.0.1"
+  }
+}
